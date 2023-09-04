@@ -1,0 +1,12 @@
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\bin\Debug\net7.0\RazorPagesTutorial.Models.deps.json
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\bin\Debug\net7.0\RazorPagesTutorial.Models.dll
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\bin\Debug\net7.0\RazorPagesTutorial.Models.pdb
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\obj\Debug\net7.0\RazorPagesTutorial.Models.csproj.AssemblyReference.cache
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\obj\Debug\net7.0\RazorPagesTutorial.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\obj\Debug\net7.0\RazorPagesTutorial.Models.AssemblyInfoInputs.cache
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\obj\Debug\net7.0\RazorPagesTutorial.Models.AssemblyInfo.cs
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\obj\Debug\net7.0\RazorPagesTutorial.Models.csproj.CoreCompileInputs.cache
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\obj\Debug\net7.0\RazorPagesTutorial.Models.dll
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\obj\Debug\net7.0\refint\RazorPagesTutorial.Models.dll
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\obj\Debug\net7.0\RazorPagesTutorial.Models.pdb
+D:\RazorPagesTutorial\RazorPagesTutorial.Models\obj\Debug\net7.0\ref\RazorPagesTutorial.Models.dll

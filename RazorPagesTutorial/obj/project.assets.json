@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "RazorPagesTutorial.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/RazorPagesTutorial.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RazorPagesTutorial.Models.dll": {}
+        }
+      },
+      "RazorPagesTutorial.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "RazorPagesTutorial.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RazorPagesTutorial.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RazorPagesTutorial.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RazorPagesTutorial.Models/1.0.0": {
+      "type": "project",
+      "path": "../RazorPagesTutorial.Models/RazorPagesTutorial.Models.csproj",
+      "msbuildProject": "../RazorPagesTutorial.Models/RazorPagesTutorial.Models.csproj"
+    },
+    "RazorPagesTutorial.Services/1.0.0": {
+      "type": "project",
+      "path": "../RazorPagesTutorial.Services/RazorPagesTutorial.Services.csproj",
+      "msbuildProject": "../RazorPagesTutorial.Services/RazorPagesTutorial.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "RazorPagesTutorial.Models >= 1.0.0",
+      "RazorPagesTutorial.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\UseR\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\RazorPagesTutorial\\RazorPagesTutorial\\RazorPagesTutorial.csproj",
+      "projectName": "RazorPagesTutorial",
+      "projectPath": "D:\\RazorPagesTutorial\\RazorPagesTutorial\\RazorPagesTutorial.csproj",
+      "packagesPath": "C:\\Users\\UseR\\.nuget\\packages\\",
+      "outputPath": "D:\\RazorPagesTutorial\\RazorPagesTutorial\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Progress\\ToolboxNuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\UseR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Telerik UI for WPF.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\RazorPagesTutorial\\RazorPagesTutorial.Models\\RazorPagesTutorial.Models.csproj": {
+              "projectPath": "D:\\RazorPagesTutorial\\RazorPagesTutorial.Models\\RazorPagesTutorial.Models.csproj"
+            },
+            "D:\\RazorPagesTutorial\\RazorPagesTutorial.Services\\RazorPagesTutorial.Services.csproj": {
+              "projectPath": "D:\\RazorPagesTutorial\\RazorPagesTutorial.Services\\RazorPagesTutorial.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

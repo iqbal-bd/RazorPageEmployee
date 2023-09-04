@@ -1,0 +1,15 @@
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\bin\Debug\net7.0\RazorPagesTutorial.Services.deps.json
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\bin\Debug\net7.0\RazorPagesTutorial.Services.dll
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\bin\Debug\net7.0\RazorPagesTutorial.Services.pdb
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\bin\Debug\net7.0\RazorPagesTutorial.Models.dll
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\bin\Debug\net7.0\RazorPagesTutorial.Models.pdb
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\net7.0\RazorPagesTutorial.Services.csproj.AssemblyReference.cache
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\net7.0\RazorPagesTutorial.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\net7.0\RazorPagesTutorial.Services.AssemblyInfoInputs.cache
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\net7.0\RazorPagesTutorial.Services.AssemblyInfo.cs
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\net7.0\RazorPagesTutorial.Services.csproj.CoreCompileInputs.cache
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\net7.0\RazorPagesTutorial.Services.csproj.CopyComplete
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\net7.0\RazorPagesTutorial.Services.dll
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\net7.0\refint\RazorPagesTutorial.Services.dll
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\net7.0\RazorPagesTutorial.Services.pdb
+D:\RazorPagesTutorial\RazorPagesTutorial.Services\obj\Debug\net7.0\ref\RazorPagesTutorial.Services.dll
